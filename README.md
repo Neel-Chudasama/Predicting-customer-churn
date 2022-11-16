@@ -1,5 +1,3 @@
-Predicting Customer Churn for Telco Systems
-
 Hello!
 
 My name is Neel Chudasama and this is my project on predicting customer churn within a Telecommunications company. 
